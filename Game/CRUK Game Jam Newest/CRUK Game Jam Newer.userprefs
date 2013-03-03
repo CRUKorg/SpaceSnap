@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SpawnPowerUps.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SpawnPowerUps.cs" Line="51" Column="18" />
+      <File FileName="Assets\Scripts\CollisionDetection.cs" Line="35" Column="4" />
+      <File FileName="Assets\Scripts\BackEndUpload.cs" Line="27" Column="5" />
+      <File FileName="Assets\Scripts\ShipController.cs" Line="121" Column="43" />
+      <File FileName="Assets\Scripts\Settings.cs" Line="5" Column="31" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="17" Column="3" />
+      <File FileName="Assets\Scripts\ScoreScript.cs" Line="11" Column="26" />
+      <File FileName="Assets\Scripts\GUITextScript.cs" Line="19" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

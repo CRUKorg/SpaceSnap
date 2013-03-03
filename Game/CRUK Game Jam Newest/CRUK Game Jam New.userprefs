@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DestroyAsteroid.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ShipController.cs" Line="224" Column="3" />
+      <File FileName="Assets\Scripts\DestroyAsteroid.cs" Line="29" Column="1" />
+      <File FileName="Assets\Scripts\PlayerState.cs" Line="21" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

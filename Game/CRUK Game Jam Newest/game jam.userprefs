@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DestroyAsteroid.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerState.cs" Line="61" Column="49" />
+      <File FileName="Assets\Scripts\CollisionDetection.cs" Line="35" Column="37" />
+      <File FileName="Assets\Scripts\Settings.cs" Line="17" Column="35" />
+      <File FileName="Assets\Scripts\DestroyAsteroid.cs" Line="24" Column="44" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\ShipController.cs" Line="38" Column="34" />
+      <File FileName="Assets\Scripts\StartGameScript.cs" Line="15" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
